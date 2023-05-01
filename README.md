@@ -20,15 +20,6 @@ print(country)
 age = 30  
 print(age)
 
-### Functions
-def is_aldult(age):
-    if age > 17:  
-        print('adult')  
-    else:  
-        print('minor')
-
-is_aldult(23)
-
 ### Lists
 my_list = [3,6,9,12]  
 print(my_list)
