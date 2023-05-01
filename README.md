@@ -37,9 +37,9 @@ print(my_list)
 ## Resources
 For more information on Python programming language, you can refer to the following resources:
 
-[Python Documentation](https://docs.python.org/3/)
-[Python Tutorial on W3Schools](https://www.w3schools.com/python/)
-[Python Tutorial on TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
+- [Python Documentation](https://docs.python.org/3/)
+* [Python Tutorial on W3Schools](https://www.w3schools.com/python/)
++ [Python Tutorial on TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
 
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](https://github.com/raufukiwala/Intro-to-Python/blob/main/LICENSE) file for details.
